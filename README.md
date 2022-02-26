@@ -1,5 +1,5 @@
 # LosBucles
-Repositorio relativo a la entrega "Los Bucles" - Tema 4.
+Repositorio relativo a la entrega "Los Bucles" - Tema 4 : https://github.com/Patriesc/LosBucles.git.
 
 Realizado por: Chiara Boccaletti y Patricia Sanz Escurin
 
