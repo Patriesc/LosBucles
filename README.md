@@ -3,7 +3,7 @@ Repositorio relativo a la entrega "Los Bucles" - Tema 4.
 
 Realizado por: Chiara Boccaletti y Patricia Sanz Escurin
 
-### Ejercicio 4
+### Ejercicio 4:
 Diagrama de flujo correspondiente al ejercicio "Adivina en qué número estoy pensando":
 
 ![AdivineEnqueEstoyPensando drawio](https://user-images.githubusercontent.com/98779707/155859337-2404b5f8-5abc-4eab-8771-935bbaacda55.svg)
