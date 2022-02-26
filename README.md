@@ -19,4 +19,6 @@ Diagrama de flujo correspondiente al ejercicio "¿Qué hace este algoritmo?":
 ### Ejercicio 10:
 Diagrama de flujo correspondiente al ejercicio "Arte ASCII 1":
 
-![ArteASCII(1) drawio](https://user-images.githubusercontent.com/98779707/155860362-e6c8c315-a26e-437f-972c-181b49ccfecb.svg)
+![ArteASCII(1) drawio](https://user-images.githubusercontent.com/98779707/155860393-2da53991-2331-4054-8412-c12c2890a8aa.svg)
+
+
