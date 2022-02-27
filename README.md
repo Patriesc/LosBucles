@@ -56,7 +56,8 @@ Diagrama de flujo correspondiente al ejercicio "Visualización de citas de pelí
 ### Ejercicio 9:
 Diagrama de flujo correspondiente al ejercicio "Escribir un múltiplo de 3":
 
-![escribirMultiplo drawio](https://user-images.githubusercontent.com/98825807/155896211-acd4b050-0b9b-4910-99bf-c4e7a2f4fb0f.svg)
+![escribirMultiplo drawio (1)](https://user-images.githubusercontent.com/98825807/155896321-ac38d40f-a070-4a6f-97a2-7875c5bd017c.svg)
+
 
 
 ### Ejercicio 10:
