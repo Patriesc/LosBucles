@@ -16,6 +16,7 @@ public class App {
         Ejercicio8 ejercicio8 = new Ejercicio8();
         Ejercicio9 ejercicio9 = new Ejercicio9();
         Ejercicio10 ejercicio10 = new Ejercicio10();
+        Ejercicio11 ejercicio11 = new Ejercicio11();
 
         do {
             System.out.println("\n***************************");
@@ -53,11 +54,9 @@ public class App {
                 case 10:
                     ejercicio10.mostrarASCII(teclado);
                     break;
-                case 11:
+                    case 11:
+                    ejercicio11.ascii(teclado);
                     break;
-                case 12: 
-                    break;
-
 
             }
 
