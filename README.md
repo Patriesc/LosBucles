@@ -69,7 +69,7 @@ Diagrama de flujo correspondiente al ejercicio "Escribir un múltiplo de 3":
 ### Ejercicio 10:
 Diagrama de flujo correspondiente al ejercicio "Arte ASCII 1":
 
-![ArteASCII(1) drawio](https://user-images.githubusercontent.com/98779707/155860393-2da53991-2331-4054-8412-c12c2890a8aa.svg)
+![ArteASCII(1) drawio (1)](https://user-images.githubusercontent.com/98779707/155899299-fd534d80-d040-4174-b166-ced0da8f460d.svg)
 
 ### Ejercicio 11:
 Diagrama de flujo correspondiente al menu del ejercicio "Arte ASCII 2":
