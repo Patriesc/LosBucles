@@ -40,10 +40,10 @@ Diagrama de flujo correspondiente al ejercicio "Visualización de citas de pelí
 ![citasPeliculas drawio](https://user-images.githubusercontent.com/98825807/155888004-cad52bf9-8f79-40c2-9098-69fdaa8e1fb6.svg)
 
 
-### Ejercicio 7:
+### Ejercicio 8:
 Diagrama de flujo correspondiente al ejercicio "Visualización de citas de películas (versión 2)":
 
-![citasPeliculasv2 drawio](https://user-images.githubusercontent.com/98825807/155889208-419fffd3-d4a5-48ac-a977-b772e1a81337.svg)
+![citasPeliculasv2 drawio (1)](https://user-images.githubusercontent.com/98825807/155889246-5414cd1e-4c1e-4456-b036-8fa83cf5cac6.svg)
 
 
 ### Ejercicio 10:
