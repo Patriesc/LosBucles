@@ -40,6 +40,11 @@ Diagrama de flujo correspondiente al ejercicio "Visualización de citas de pelí
 ![citasPeliculas drawio](https://user-images.githubusercontent.com/98825807/155888004-cad52bf9-8f79-40c2-9098-69fdaa8e1fb6.svg)
 
 
+### Ejercicio 7:
+Diagrama de flujo correspondiente al ejercicio "Visualización de citas de películas (versión 2)":
+
+![citasPeliculasv2 drawio](https://user-images.githubusercontent.com/98825807/155889208-419fffd3-d4a5-48ac-a977-b772e1a81337.svg)
+
 
 ### Ejercicio 10:
 Diagrama de flujo correspondiente al ejercicio "Arte ASCII 1":
