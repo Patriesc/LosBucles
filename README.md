@@ -53,6 +53,12 @@ Diagrama de flujo correspondiente al ejercicio "Visualización de citas de pelí
 ![citasPeliculasv2 drawio (1)](https://user-images.githubusercontent.com/98825807/155889246-5414cd1e-4c1e-4456-b036-8fa83cf5cac6.svg)
 
 
+### Ejercicio 9:
+Diagrama de flujo correspondiente al ejercicio "Escribir un múltiplo de 3":
+
+![escribirMultiplo drawio](https://user-images.githubusercontent.com/98825807/155896211-acd4b050-0b9b-4910-99bf-c4e7a2f4fb0f.svg)
+
+
 ### Ejercicio 10:
 Diagrama de flujo correspondiente al ejercicio "Arte ASCII 1":
 
