@@ -114,11 +114,13 @@ public class Ejercicio11 extends Ejercicio10 {
                         System.out.println("");
                     }
                     break;
+                case 7:
+                    break;
                 default:
                     System.out.println("La opción elegida no existe.");
 
             }
-        } while (opcion != 6);
+        } while (opcion != 7);
     }
 
     public static void menu() {
@@ -127,7 +129,9 @@ public class Ejercicio11 extends Ejercicio10 {
         System.out.println("3 - Cruz de San Andrés");
         System.out.println("4 - Triángulo rectángulo");
         System.out.println("5 - Rombo");
-        System.out.println("6 - Ajedrezado y salir.");
+        System.out.println("6 - Ajedrezado");
+        System.out.println("7 - Salir");
+       
 
     }
 
