@@ -78,5 +78,8 @@ Diagrama de flujo correspondiente al menu del ejercicio "Arte ASCII 2":
 
 Diagrama de flujo correspondiente al ejercicio "Arte ASCII 2":
 
+![ascii2 drawio](https://user-images.githubusercontent.com/98825807/155901572-2662e873-3fc4-475a-a2a4-0412bc6ab819.svg)
+
+
 
 
