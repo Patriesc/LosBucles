@@ -33,6 +33,14 @@ Diagrama de flujo correspondiente al ejercicio "¿Qué hace este algoritmo?":
 
 ![QueHace drawio](https://user-images.githubusercontent.com/98779707/155859403-8376ae39-dca2-433b-a114-13f48444cfe0.svg)
 
+
+### Ejercicio 7:
+Diagrama de flujo correspondiente al ejercicio "Visualización de citas de películas (versión 1)":
+
+![citasPeliculas drawio](https://user-images.githubusercontent.com/98825807/155888004-cad52bf9-8f79-40c2-9098-69fdaa8e1fb6.svg)
+
+
+
 ### Ejercicio 10:
 Diagrama de flujo correspondiente al ejercicio "Arte ASCII 1":
 
