@@ -55,7 +55,7 @@ public class App {
                     ejercicio10.mostrarASCII(teclado);
                     break;
                     case 11:
-                    ejercicio11.ascii(teclado);
+                    ejercicio11.ascii2(teclado);
                     break;
 
             }

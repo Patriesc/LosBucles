@@ -6,7 +6,7 @@ public class Ejercicio11 extends Ejercicio10 {
     Scanner teclado;
     int opcion = 0;
 
-    public void ascii(Scanner teclado) {
+    public void ascii2(Scanner teclado) {
         do {
             System.out.println("\n¿Tamaño?");
             int tamaño = teclado.nextInt();
@@ -114,14 +114,11 @@ public class Ejercicio11 extends Ejercicio10 {
                         System.out.println("");
                     }
                     break;
-                case 7:
-                    System.out.println("Volviendo al menú principal. ");
-                    break;
                 default:
                     System.out.println("La opción elegida no existe.");
 
             }
-        } while (opcion != 7);
+        } while (opcion != 6);
     }
 
     public static void menu() {
@@ -130,8 +127,7 @@ public class Ejercicio11 extends Ejercicio10 {
         System.out.println("3 - Cruz de San Andrés");
         System.out.println("4 - Triángulo rectángulo");
         System.out.println("5 - Rombo");
-        System.out.println("6 - Ajedrezado");
-        System.out.println("7 - Salir");
+        System.out.println("6 - Ajedrezado y salir.");
 
     }
 
