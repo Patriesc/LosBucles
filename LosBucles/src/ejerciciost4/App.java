@@ -8,6 +8,8 @@ public class App {
         int option = 0;
         Ejercicio1 ejercicio1 = new Ejercicio1();
         Ejercicio2 ejercicio2 = new Ejercicio2();
+        Ejercicio3 ejercicio3 = new Ejercicio3();
+        Ejercicio4 ejercicio4 = new Ejercicio4();
         Ejercicio6 ejercicio6 = new Ejercicio6();
 
         do {
@@ -20,7 +22,13 @@ public class App {
                     ejercicio1.notaMedia(teclado);
                     break;
                 case 2:
-                    ejercicio2.calcularMedia(teclado);
+                    ejercicio2.calcularMediav2(teclado);
+                    break;
+                case 3:
+                    ejercicio3.notaMediav3(teclado);
+                    break;
+                case 4:
+                    ejercicio4.adivinarNumero(teclado);
                     break;
                 case 6:
                     ejercicio6.trampa(teclado);

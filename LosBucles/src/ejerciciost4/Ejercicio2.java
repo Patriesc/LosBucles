@@ -5,13 +5,13 @@ import java.util.Scanner;
 public class Ejercicio2 extends Ejercicio1 {
     Scanner teclado = new Scanner(System.in);
 
-    private int contador = 0;
+    protected int contador = 0;
     private double valorIntroducido;
 
-    public void calcularMedia(Scanner teclado){
+    public void calcularMediav2(Scanner teclado){
         sumaTotal = 0;
         do{
-           System.out.print("Introduzca valor: "); 
+           System.out.print("Introduzca valor (-1 para terminar): "); 
            valorIntroducido = teclado.nextDouble(); 
            if(valorIntroducido != -1){ 
            listaNotas.add(valorIntroducido);
@@ -24,10 +24,11 @@ public class Ejercicio2 extends Ejercicio1 {
            sumaTotal += valor;
            
        }
-       System.out.println("La nota media es: " + sumaTotal/contador);
+       System.out.print("Media = " + sumaTotal/contador);
     
        
     }
+    
 }
 
 

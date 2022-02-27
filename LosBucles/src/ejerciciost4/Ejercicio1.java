@@ -1,13 +1,12 @@
 package ejerciciost4;
 
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 
 public class Ejercicio1 {
 
-    protected List<Double> listaNotas = new ArrayList<>();
+    protected ArrayList<Double> listaNotas = new ArrayList<>();
     protected int numValores;
     protected int sumaTotal;
 
