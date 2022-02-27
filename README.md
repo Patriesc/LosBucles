@@ -26,6 +26,13 @@ Diagrama de flujo correspondiente al ejercicio "Adivina en qué número estoy pe
 ![AdivineEnqueEstoyPensando drawio](https://user-images.githubusercontent.com/98779707/155859337-2404b5f8-5abc-4eab-8771-935bbaacda55.svg)
 
 
+### Ejercicio 5:
+Diagrama de flujo correspondiente al ejercicio "Ahora tengo que encontrarlo yo":
+
+![AhoraYo drawio](https://user-images.githubusercontent.com/98825807/155895929-098e60ec-3d66-43ff-82a2-330b8bca669b.svg)
+
+
+
 ### Ejercicio 6:
 El algoritmo comprueba con un máximo de 5 intentos la capital de un país europeo, en este caso de la Francia. Tal como se presentaba el algoritmo no funcionaba. Hemos tenido que aportar cambios para obtener la respuesta correcta.
 
