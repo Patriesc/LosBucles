@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T18:57:29.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="yyN6mLYpxRhNnjDiUDMB" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-27T18:58:58.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_o40YwrW7Co6hpx0B6RA" version="16.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1563" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1875" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -13,7 +13,7 @@
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="590" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="760" y="655" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pzGBQQbzy8aNmigqWBmw-0" value="Escribir: &quot;Elija un número del 1 al 100, luego presione cualquier tecla&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="180" width="180" height="50" as="geometry" />
@@ -48,7 +48,7 @@
         <mxCell id="pzGBQQbzy8aNmigqWBmw-9" value="Asignarle a eleccionPc un nuevo valor aleatorio mayor que el indicado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pzGBQQbzy8aNmigqWBmw-10" value="Asignarle a eleccionPc un nuevo valor aleatorio mayor que el indicado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pzGBQQbzy8aNmigqWBmw-10" value="Asignarle a eleccionPc un nuevo valor aleatorio menor que el indicado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="312.5" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pzGBQQbzy8aNmigqWBmw-11" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pzGBQQbzy8aNmigqWBmw-1" target="pzGBQQbzy8aNmigqWBmw-4">
@@ -98,14 +98,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pzGBQQbzy8aNmigqWBmw-16" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pzGBQQbzy8aNmigqWBmw-8" target="WIyWlLk6GJQsqaUBKTNV-11">
+        <mxCell id="pzGBQQbzy8aNmigqWBmw-16" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pzGBQQbzy8aNmigqWBmw-8" target="pzGBQQbzy8aNmigqWBmw-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="840" as="sourcePoint" />
-            <mxPoint x="670" y="830" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="550" y="680" />
-              <mxPoint x="550" y="680" />
-            </Array>
+            <mxPoint x="570" y="760" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pzGBQQbzy8aNmigqWBmw-17" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pzGBQQbzy8aNmigqWBmw-5" target="pzGBQQbzy8aNmigqWBmw-9">
@@ -141,6 +138,18 @@
         </mxCell>
         <mxCell id="pzGBQQbzy8aNmigqWBmw-23" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzGBQQbzy8aNmigqWBmw-24" value="Escribir: &quot;Felicidades, ¡has acertado!" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pzGBQQbzy8aNmigqWBmw-25" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pzGBQQbzy8aNmigqWBmw-24" target="WIyWlLk6GJQsqaUBKTNV-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="570" as="sourcePoint" />
+            <mxPoint x="950" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="675" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
