@@ -3,6 +3,12 @@ Repositorio relativo a la entrega "Los Bucles" - Tema 4 : https://github.com/Pat
 
 Realizado por: Chiara Boccaletti y Patricia Sanz Escurin
 
+### Main:
+Diagrama de flujo correspondiente al programa principal:
+
+![App drawio](https://user-images.githubusercontent.com/98825807/155897434-58a92f20-c05a-4f6a-9cf7-874d75097c5b.svg)
+
+
 ### Ejercicio 1:
 Diagrama de flujo correspondiente al ejercicio "La nota media (versión 1)":
 
