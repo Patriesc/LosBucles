@@ -10,10 +10,11 @@ public class App {
         Ejercicio2 ejercicio2 = new Ejercicio2();
         Ejercicio3 ejercicio3 = new Ejercicio3();
         Ejercicio4 ejercicio4 = new Ejercicio4();
+        Ejercicio5 ejercicio5 = new Ejercicio5();
         Ejercicio6 ejercicio6 = new Ejercicio6();
 
         do {
-            System.out.println("***************************");
+            System.out.println("\n***************************");
             System.out.println("Elija una de las opciones: ");
             menu();
             option = teclado.nextInt();
@@ -29,6 +30,9 @@ public class App {
                     break;
                 case 4:
                     ejercicio4.adivinarNumero(teclado);
+                    break;
+                case 5:
+                    ejercicio5.ahoraYo(teclado);
                     break;
                 case 6:
                     ejercicio6.trampa(teclado);

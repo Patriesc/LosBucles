@@ -9,6 +9,13 @@
             "name": "Launch App",
             "request": "launch",
             "mainClass": "ejerciciost4.App",
+            "projectName": "LosBucles_41d85a36"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "ejerciciost4.App",
             "projectName": "LosBucles_480a63c5"
         },
         {
