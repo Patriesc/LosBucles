@@ -14,6 +14,8 @@ public class App {
         Ejercicio6 ejercicio6 = new Ejercicio6();
         Ejercicio7 ejercicio7 = new Ejercicio7();
         Ejercicio8 ejercicio8 = new Ejercicio8();
+        Ejercicio9 ejercicio9 = new Ejercicio9();
+        Ejercicio10 ejercicio10 = new Ejercicio10();
 
         do {
             System.out.println("\n***************************");
@@ -44,6 +46,12 @@ public class App {
                     break;
                 case 8:
                     ejercicio8.mostrarPeliculas(teclado);
+                    break;
+                case 9:
+                    ejercicio9.escribirMultiplo(teclado);
+                    break;
+                case 10:
+                    ejercicio10.mostrarASCII(teclado);
                     break;
 
             }
