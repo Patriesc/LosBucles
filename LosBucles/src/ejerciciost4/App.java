@@ -53,6 +53,11 @@ public class App {
                 case 10:
                     ejercicio10.mostrarASCII(teclado);
                     break;
+                case 11:
+                    break;
+                case 12: 
+                    break;
+
 
             }
 
