@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T20:41:22.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="8iNtD_1Np22DJ_y6fKwX" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T20:44:10.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="r6rX2JDlL-XLalxrWZTM" version="16.6.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
             <mxPoint x="219.5" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zKZ7StEi_fK2kyMc0Wfb-3" value="Escribir &quot;¿En qué número estoy pensando?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zKZ7StEi_fK2kyMc0Wfb-3" value="Escribir &quot;¿En qué número estoy pensando?&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135" y="280" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zKZ7StEi_fK2kyMc0Wfb-4" value="¿pcRandom != numero?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
