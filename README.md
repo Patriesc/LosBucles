@@ -71,4 +71,13 @@ Diagrama de flujo correspondiente al ejercicio "Arte ASCII 1":
 
 ![ArteASCII(1) drawio](https://user-images.githubusercontent.com/98779707/155860393-2da53991-2331-4054-8412-c12c2890a8aa.svg)
 
+### Ejercicio 11:
+Diagrama de flujo correspondiente al menu del ejercicio "Arte ASCII 2":
+
+![Menu drawio (1)](https://user-images.githubusercontent.com/98779707/155899171-a338eb40-5d02-4dc1-88b3-c43065fae771.svg)
+
+
+Diagrama de flujo correspondiente al ejercicio "Arte ASCII 2":
+
+
 
