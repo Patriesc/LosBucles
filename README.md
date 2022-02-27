@@ -8,6 +8,11 @@ Diagrama de flujo correspondiente al ejercicio "La nota media (versión 1)":
 
 ![Ejercicio1fc drawio](https://user-images.githubusercontent.com/98825807/155880403-16bb5e5b-b224-49d9-ac2d-6fcbab575a02.svg)
 
+### Ejercicio 1:
+Diagrama de flujo correspondiente al ejercicio "La nota media (versión 2)":
+
+![NotaMediav2 drawio](https://user-images.githubusercontent.com/98825807/155880619-011e66ad-a296-4169-921e-c228dc6778c6.svg)
+
 
 ### Ejercicio 4:
 Diagrama de flujo correspondiente al ejercicio "Adivina en qué número estoy pensando":
