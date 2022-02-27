@@ -20,6 +20,7 @@ public class Ejercicio10 {
                 System.out.print(caracter); 
                 
             }
+             System.out.println();
         }
         
     }
