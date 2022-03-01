@@ -6,7 +6,7 @@ Realizado por: Chiara Boccaletti y Patricia Sanz Escurin
 ### UML:
 El UML correspondiente es: 
 
-![LosBuclesUML drawio](https://user-images.githubusercontent.com/98825807/156149918-4a81ba86-5107-4965-aaa2-55c0b9fd2d65.svg)
+![LosBuclesUML drawio (1)](https://user-images.githubusercontent.com/98825807/156155173-73ffee6f-e627-486f-b07a-12e97f8ab212.svg)
 
 
 
