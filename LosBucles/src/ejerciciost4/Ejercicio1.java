@@ -8,7 +8,7 @@ public class Ejercicio1 {
 
     protected ArrayList<Double> listaNotas = new ArrayList<>();
     protected int numValores;
-    protected int sumaTotal;
+    protected double sumaTotal;
 
 
     public void notaMedia(Scanner teclado){
