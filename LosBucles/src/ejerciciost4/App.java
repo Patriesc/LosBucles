@@ -3,9 +3,9 @@ package ejerciciost4;
 import java.util.Scanner;
 
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-        int option = 0;
+        int option;
         Ejercicio1 ejercicio1 = new Ejercicio1();
         Ejercicio2 ejercicio2 = new Ejercicio2();
         Ejercicio3 ejercicio3 = new Ejercicio3();
@@ -46,7 +46,7 @@ public class App {
                     ejercicio7.mostrarPeliculas(teclado);
                     break;
                 case 8:
-                    ejercicio8.mostrarPeliculas(teclado);
+                    ejercicio8.mostrarPeliculasv2(teclado);
                     break;
                 case 9:
                     ejercicio9.escribirMultiplo(teclado);
@@ -54,7 +54,7 @@ public class App {
                 case 10:
                     ejercicio10.mostrarASCII(teclado);
                     break;
-                    case 11:
+                case 11:
                     ejercicio11.ascii2(teclado);
                     break;
 

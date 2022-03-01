@@ -3,7 +3,6 @@ package ejerciciost4;
 import java.util.Scanner;
 
 public class Ejercicio7 {
-    Scanner teclado = new Scanner(System.in);
     protected final String cm1 = "Maravillosa Belfast";
     protected final String jb1 = "Hay un proverbio japonés que dice: en el árbol pelado no anidan los pájaros.";
     protected final String vlrt1 = "La vida es un río largo y tranquilo. Son las orillas las que son peligrosas. Nunca se debe abordar.";

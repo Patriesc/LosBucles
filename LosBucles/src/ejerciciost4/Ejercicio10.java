@@ -3,7 +3,7 @@ package ejerciciost4;
 import java.util.Scanner;
 
 public class Ejercicio10 {
-    Scanner teclado = new Scanner(System.in);
+    protected String caracter;
 
     public void mostrarASCII(Scanner teclado) {
         System.out.println("¿Anchura?");
@@ -12,7 +12,7 @@ public class Ejercicio10 {
         int altura = teclado.nextInt();
         System.out.println("¿Carácter?");
         teclado.nextLine();
-        String caracter = teclado.nextLine();
+        caracter = teclado.nextLine();
 
         for (int i = 0; i < altura; i++) {
             System.out.println();

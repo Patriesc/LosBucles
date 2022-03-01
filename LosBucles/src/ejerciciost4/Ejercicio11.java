@@ -2,8 +2,7 @@ package ejerciciost4;
 
 import java.util.Scanner;
 
-public class Ejercicio11 extends Ejercicio10 {
-    Scanner teclado;
+public class Ejercicio11 extends Ejercicio10{
     int opcion = 0;
 
     public void ascii2(Scanner teclado) {
@@ -12,7 +11,7 @@ public class Ejercicio11 extends Ejercicio10 {
             int tamaño = teclado.nextInt();
             System.out.println("¿Carácter?");
             teclado.nextLine();
-            String caracter = teclado.nextLine();
+            caracter = teclado.nextLine();
             System.out.println("¿Forma?");
             menu();
             opcion = teclado.nextInt();
@@ -68,30 +67,10 @@ public class Ejercicio11 extends Ejercicio10 {
                     break;
                 case 5:
                     for (int filas = 1; filas <= (tamaño / 2) + 1; filas++) {
-                        for (int columnas = 0; columnas < tamaño - filas; columnas++) {
-                            System.out.print(" ");
-                        }
-                        for (int columnas = 0; columnas < 2 * filas - 1; columnas++) {
-                            if (columnas == 0 || columnas == 2 * filas - 2) {
-                                System.out.print(caracter);
-                            } else {
-                                System.out.print(" ");
-                            }
-                        }
-                        System.out.println();
+                        triangulo(tamaño, filas);
                     }
                     for (int filas = tamaño / 2; filas > 0; filas--) {
-                        for (int columnas = 0; columnas < tamaño - filas; columnas++) {
-                            System.out.print(" ");
-                        }
-                        for (int columnas = 0; columnas < 2 * filas - 1; columnas++) {
-                            if (columnas == 0 || columnas == 2 * filas - 2) {
-                                System.out.print(caracter);
-                            } else {
-                                System.out.print(" ");
-                            }
-                        }
-                        System.out.println();
+                        triangulo(tamaño, filas);
                     }
 
                     System.out.println();
@@ -105,7 +84,7 @@ public class Ejercicio11 extends Ejercicio10 {
                             System.out.print("  ");
                         }
 
-                        System.out.println("");
+                        System.out.println();
                         for (int filas = 1; filas < tamaño; filas++) {
 
                             System.out.print("  ");
@@ -121,6 +100,20 @@ public class Ejercicio11 extends Ejercicio10 {
 
             }
         } while (opcion != 7);
+    }
+
+    private void triangulo(int tamaño, int filas) {
+        for (int columnas = 0; columnas < tamaño - filas; columnas++) {
+            System.out.print(" ");
+        }
+        for (int columnas = 0; columnas < 2 * filas - 1; columnas++) {
+            if (columnas == 0 || columnas == 2 * filas - 2) {
+                System.out.print(caracter);
+            } else {
+                System.out.print(" ");
+            }
+        }
+        System.out.println();
     }
 
     public static void menu() {

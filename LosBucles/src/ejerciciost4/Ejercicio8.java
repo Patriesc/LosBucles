@@ -5,13 +5,12 @@ import java.util.Scanner;
 
 
 public class Ejercicio8 extends Ejercicio7{
-    int opcion = 0;
     private final String cm2 = "Son dos, o esque he bebido. Son identicas";
     private final String jb2 = "Mi nombre es Bond, James Bond";
     private final String vlrt2 = "¡No te enfades, quitarás el color!";
     private final String sw2 = "Si el orgullo es doble, doble es la caída.";
 
-    public void mostrarPeliculas(Scanner teclado){
+    public void mostrarPeliculasv2(Scanner teclado){
     do{
         menuCitas();
         opcion = teclado.nextInt();

@@ -7,7 +7,6 @@ public class Ejercicio4 {
     int numero = 0;
     Random random = new Random();
     int pcRandom = random.nextInt(100) + 1;
-    Scanner teclado = new Scanner(System.in);
 
     public void adivinarNumero(Scanner teclado) {
         do {
