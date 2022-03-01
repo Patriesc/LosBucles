@@ -3,6 +3,13 @@ Repositorio relativo a la entrega "Los Bucles" - Tema 4 : https://github.com/Pat
 
 Realizado por: Chiara Boccaletti y Patricia Sanz Escurin
 
+### UML:
+El UML correspondiente es: 
+
+![LosBuclesUML drawio](https://user-images.githubusercontent.com/98825807/156149918-4a81ba86-5107-4965-aaa2-55c0b9fd2d65.svg)
+
+
+
 ### Main:
 Diagrama de flujo correspondiente al programa principal:
 
